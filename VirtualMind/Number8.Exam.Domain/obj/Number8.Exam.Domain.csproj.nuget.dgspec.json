@@ -1,0 +1,422 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain\\Number8.Exam.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\Number8.Exam.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\Number8.Exam.Domain.Entity.csproj",
+        "projectName": "Number8.Exam.Domain.Entity",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\Number8.Exam.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\Number8.Exam.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\Number8.Exam.Domain.Interface.csproj",
+        "projectName": "Number8.Exam.Domain.Interface",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\Number8.Exam.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain\\Number8.Exam.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain\\Number8.Exam.Domain.csproj",
+        "projectName": "Number8.Exam.Domain",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain\\Number8.Exam.Domain.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\Number8.Exam.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\Number8.Exam.Domain.Entity.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\Number8.Exam.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Interface\\Number8.Exam.Domain.Interface.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\Number8.Exam.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\Number8.Exam.Infraestructure.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Seq.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj",
+        "projectName": "Number8.Exam.Infraestructure.Entity",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\Number8.Exam.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\Number8.Exam.Infraestructure.csproj",
+        "projectName": "Number8.Exam.Infraestructure",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\Number8.Exam.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Infraestructure.Entity\\Number8.Exam.Infraestructure.Entity.csproj"
+              },
+              "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj": {
+                "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Seq.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj",
+        "projectName": "Number8.Exam.Transversal",
+        "projectPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\Number8.Exam.Transversal.csproj",
+        "packagesPath": "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naldo.reupomusayon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Seq.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

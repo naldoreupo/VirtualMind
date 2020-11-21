@@ -1,0 +1,8 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure.Entity\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.csproj.CoreCompileInputs.cache

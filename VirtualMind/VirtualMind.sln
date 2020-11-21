@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 Transversal", "5 Transversal", "{5A2272BE-F0D4-461B-98C3-C7E438177912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Infraestructure", "4 Infraestructure", "{2C23829A-16DF-45F8-A35C-6520D0D01E08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 Domain", "3 Domain", "{7834D408-373A-4A15-B638-85506AA77999}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Service", "1 Service", "{F48DC475-B818-48A5-B90E-E861E7D5AC32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Transversal", "Number8.Exam.Transversal\VirtualMind.Exam.Transversal.csproj", "{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Infraestructure", "Number8.Exam.Infraestructure\VirtualMind.Exam.Infraestructure.csproj", "{9E15A8FC-0E31-4E18-BF35-1F963E80682A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Infraestructure.Entity", "Number8.Exam.Infraestructure.Entity\VirtualMind.Exam.Infraestructure.Entity.csproj", "{40EFD62C-8570-4259-BDE2-C647662C9B07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Domain", "Number8.Exam.Domain\VirtualMind.Exam.Domain.csproj", "{81B23FEC-0988-4713-BE4C-706024A67261}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Domain.Entity", "Number8.Exam.Domain.Entity\VirtualMind.Exam.Domain.Entity.csproj", "{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Service.Entity", "VirtualMind.Exam.Service.Entity\VirtualMind.Exam.Service.Entity.csproj", "{AFBFA464-818E-464D-B18E-1FD321A2E83A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Service.Test", "VirtualMind.Exam.Service.Test\VirtualMind.Exam.Service.Test.csproj", "{909304DF-396E-4241-9161-7FC1271996D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Domain.Test", "Number8.Exam.Domain.Test\VirtualMind.Exam.Domain.Test.csproj", "{9958D9B2-5524-4280-8147-B88B7DF2A5AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Service.API", "VirtualMind.Exam.Service.API\VirtualMind.Exam.Service.API.csproj", "{6F7991C1-F273-4399-956A-E976A5C00F48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Domain.Interface", "Number8.Exam.Domain.Interface\VirtualMind.Exam.Domain.Interface.csproj", "{553A24D7-5AF5-4D94-8326-185D7DADC893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMind.Exam.Infraestructure.Interface", "VirtualMind.Exam.Infraestructure.Interface\VirtualMind.Exam.Infraestructure.Interface.csproj", "{547D6164-4715-493B-A78A-7D1406190057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E15A8FC-0E31-4E18-BF35-1F963E80682A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E15A8FC-0E31-4E18-BF35-1F963E80682A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E15A8FC-0E31-4E18-BF35-1F963E80682A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E15A8FC-0E31-4E18-BF35-1F963E80682A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EFD62C-8570-4259-BDE2-C647662C9B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EFD62C-8570-4259-BDE2-C647662C9B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EFD62C-8570-4259-BDE2-C647662C9B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EFD62C-8570-4259-BDE2-C647662C9B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B23FEC-0988-4713-BE4C-706024A67261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B23FEC-0988-4713-BE4C-706024A67261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B23FEC-0988-4713-BE4C-706024A67261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B23FEC-0988-4713-BE4C-706024A67261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBFA464-818E-464D-B18E-1FD321A2E83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBFA464-818E-464D-B18E-1FD321A2E83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBFA464-818E-464D-B18E-1FD321A2E83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBFA464-818E-464D-B18E-1FD321A2E83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909304DF-396E-4241-9161-7FC1271996D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909304DF-396E-4241-9161-7FC1271996D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909304DF-396E-4241-9161-7FC1271996D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909304DF-396E-4241-9161-7FC1271996D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9958D9B2-5524-4280-8147-B88B7DF2A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9958D9B2-5524-4280-8147-B88B7DF2A5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9958D9B2-5524-4280-8147-B88B7DF2A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9958D9B2-5524-4280-8147-B88B7DF2A5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7991C1-F273-4399-956A-E976A5C00F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7991C1-F273-4399-956A-E976A5C00F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7991C1-F273-4399-956A-E976A5C00F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7991C1-F273-4399-956A-E976A5C00F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553A24D7-5AF5-4D94-8326-185D7DADC893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553A24D7-5AF5-4D94-8326-185D7DADC893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553A24D7-5AF5-4D94-8326-185D7DADC893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553A24D7-5AF5-4D94-8326-185D7DADC893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547D6164-4715-493B-A78A-7D1406190057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547D6164-4715-493B-A78A-7D1406190057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547D6164-4715-493B-A78A-7D1406190057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547D6164-4715-493B-A78A-7D1406190057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF5ACE5C-D72D-4D37-9CF6-01DD16F3E4AA} = {5A2272BE-F0D4-461B-98C3-C7E438177912}
+		{9E15A8FC-0E31-4E18-BF35-1F963E80682A} = {2C23829A-16DF-45F8-A35C-6520D0D01E08}
+		{40EFD62C-8570-4259-BDE2-C647662C9B07} = {2C23829A-16DF-45F8-A35C-6520D0D01E08}
+		{81B23FEC-0988-4713-BE4C-706024A67261} = {7834D408-373A-4A15-B638-85506AA77999}
+		{6BE7DAB4-AB28-4573-A5D7-BBAC8649E63C} = {7834D408-373A-4A15-B638-85506AA77999}
+		{AFBFA464-818E-464D-B18E-1FD321A2E83A} = {F48DC475-B818-48A5-B90E-E861E7D5AC32}
+		{909304DF-396E-4241-9161-7FC1271996D1} = {F48DC475-B818-48A5-B90E-E861E7D5AC32}
+		{9958D9B2-5524-4280-8147-B88B7DF2A5AF} = {7834D408-373A-4A15-B638-85506AA77999}
+		{6F7991C1-F273-4399-956A-E976A5C00F48} = {F48DC475-B818-48A5-B90E-E861E7D5AC32}
+		{553A24D7-5AF5-4D94-8326-185D7DADC893} = {7834D408-373A-4A15-B638-85506AA77999}
+		{547D6164-4715-493B-A78A-7D1406190057} = {2C23829A-16DF-45F8-A35C-6520D0D01E08}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB7884B-27F8-4841-B44E-3148FD1C595F}
+	EndGlobalSection
+EndGlobal

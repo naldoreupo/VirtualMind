@@ -1,0 +1,14 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.csproj.CopyComplete
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.csprojAssemblyReference.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\obj\Debug\netcoreapp3.1\Number8.Exam.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Domain.Interface\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.pdb

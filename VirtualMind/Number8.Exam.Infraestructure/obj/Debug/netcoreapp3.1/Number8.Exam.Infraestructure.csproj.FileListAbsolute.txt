@@ -1,0 +1,14 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.csprojAssemblyReference.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.csproj.CopyComplete
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Infraestructure\obj\Debug\netcoreapp3.1\Number8.Exam.Infraestructure.csproj.CoreCompileInputs.cache

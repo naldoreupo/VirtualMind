@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Seq.Extensions.Logging" Version="4.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Number8.Exam.Domain.Entity\VirtualMind.Exam.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Infraestructure.Entity\VirtualMind.Exam.Infraestructure.Entity.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Transversal\VirtualMind.Exam.Transversal.csproj" />
+    <ProjectReference Include="..\VirtualMind.Exam.Infraestructure.Interface\VirtualMind.Exam.Infraestructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

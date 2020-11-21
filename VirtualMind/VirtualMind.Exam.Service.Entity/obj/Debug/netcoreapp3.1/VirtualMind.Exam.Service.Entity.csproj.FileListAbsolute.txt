@@ -1,0 +1,8 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.csproj.CoreCompileInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Service.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.pdb

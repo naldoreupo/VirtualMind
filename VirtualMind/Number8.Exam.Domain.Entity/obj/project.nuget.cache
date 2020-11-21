@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWuyEPclLa40R37aCidgMi72OapDFRjU6WO17HnfGtyWKtpq9cYMqg/6gZZBYtH3tO3HhrFhRVm9yfJKLQD2Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\Number8.Exam.Domain.Entity\\VirtualMind.Exam.Domain.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.csprojAssemblyReference.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Domain.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Infraestructure.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Domain.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Infraestructure.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Service.Entity.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Transversal.csproj.CopyComplete

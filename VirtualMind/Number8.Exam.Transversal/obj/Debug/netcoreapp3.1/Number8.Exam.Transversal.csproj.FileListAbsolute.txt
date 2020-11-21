@@ -1,0 +1,9 @@
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.deps.json
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.AssemblyInfoInputs.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.AssemblyInfo.cs
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\bin\Debug\netcoreapp3.1\Number8.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.dll
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.pdb
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.csprojAssemblyReference.cache
+C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\Number8.Exam.Transversal\obj\Debug\netcoreapp3.1\Number8.Exam.Transversal.csproj.CoreCompileInputs.cache
