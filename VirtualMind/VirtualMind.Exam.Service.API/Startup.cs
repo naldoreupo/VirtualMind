@@ -16,6 +16,8 @@ using VirtualMind.Exam.Domain.Interface;
 using VirtualMind.Exam.Infraestructure;
 using VirtualMind.Exam.Infraestructure.Interface;
 using VirtualMind.Exam.Transversal;
+using Newtonsoft;
+using Microsoft.EntityFrameworkCore;
 
 namespace VirtualMind.Exam.Service.API
 {
@@ -31,14 +33,26 @@ namespace VirtualMind.Exam.Service.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<VirtualMindDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("VirtualMindDB")));
+
+            services.AddControllers().AddNewtonsoftJson();
+
+            services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));                 
+
             services.AddLogging(loggingBuilder =>
             {
                 loggingBuilder.AddSeq();
             });
 
-
             IMapper iMapper = Maps.InitMapper();
             services.AddSingleton(iMapper);
+
+            services.AddTransient<InterfaceQuoteDomain, QuoteDomain>();
 
             services.AddTransient<InterfacePurchaseInfraestructure, PurchaseInfraestructure>();
 
@@ -63,6 +77,8 @@ namespace VirtualMind.Exam.Service.API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("MyPolicy");
 
             app.UseEndpoints(endpoints =>
             {

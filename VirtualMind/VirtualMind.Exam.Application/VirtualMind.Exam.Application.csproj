@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Number8.Exam.Domain.Interface\VirtualMind.Exam.Domain.Interface.csproj" />
+    <ProjectReference Include="..\VirtualMind.Exam.Application.Interface\VirtualMind.Exam.Application.Interface.csproj" />
+  </ItemGroup>
 
 </Project>

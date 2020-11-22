@@ -21,6 +21,7 @@ namespace VirtualMind.Exam.Transversal
                 cfg.CreateMap<PurchaseDTO, PurchaseInput>();
                 cfg.CreateMap<PurchaseDTO,Purchase>();
                 cfg.CreateMap<Purchase,PurchaseInput>();
+
             });
 
             return config.CreateMapper();

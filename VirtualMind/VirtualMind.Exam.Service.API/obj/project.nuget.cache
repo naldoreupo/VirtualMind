@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "G8bQ0ZkSLJz4hux9SluZDzMzZCA3ZOZU4sBuTmgRZpIlDQIxY9JvAOh3B5wpLk6cmsEBPLAc/SExqoB1M6A4CQ==",
+  "dgSpecHash": "ANCXb+juEpQIqmvd8/fboYcPlmHAOWQZEVRXDqFqxnCdS5W8VG2x8eB5JpF+j214ZXvhB29oHxUFXd8KAk2XHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\naldo.reupomusayon\\source\\repos\\VirtualMind\\VirtualMind\\VirtualMind.Exam.Service.API\\VirtualMind.Exam.Service.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
@@ -36,6 +38,7 @@
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\seq.extensions.logging\\4.0.2\\seq.extensions.logging.4.0.2.nupkg.sha512",
     "C:\\Users\\naldo.reupomusayon\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

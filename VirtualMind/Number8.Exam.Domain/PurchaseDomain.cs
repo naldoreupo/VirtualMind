@@ -33,6 +33,7 @@ namespace VirtualMind.Exam.Domain
         {
             try
             {
+
                 var _currencyDomain = _currencyFactoryDomain.Build(purchaseDTO.CurrencyCode);
                 var exchangeRate = await _currencyDomain.GetExchangeRate();
 
@@ -52,6 +53,17 @@ namespace VirtualMind.Exam.Domain
                 _logger.LogError(ex, ex.Message);
                 throw;
             }
+        }
+
+        public Task<bool> ValidateMaxLimit(PurchaseDTO purchaseDTO)
+        {
+            if (purchaseDTO.CurrencyCode == CurrencyConstants.CurrencyDolarCode && purchaseDTO.Amount > 200)
+                return Task.FromResult(false);
+
+            if (purchaseDTO.CurrencyCode == CurrencyConstants.CurrencyBrasilianCode && purchaseDTO.Amount > 300)
+                return Task.FromResult(false);
+
+            return Task.FromResult(true);
         }
     }
 }

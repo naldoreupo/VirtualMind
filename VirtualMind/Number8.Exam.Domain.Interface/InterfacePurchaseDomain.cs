@@ -11,5 +11,6 @@ namespace VirtualMind.Exam.Domain.Interface
    public interface InterfacePurchaseDomain
     {
         Task<Response<PurchaseOutput>> SaveTransacction(PurchaseDTO purchaseDTO);
+        Task<bool> ValidateMaxLimit(PurchaseDTO purchaseDTO);
     }
 }

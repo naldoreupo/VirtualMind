@@ -31,6 +31,7 @@ namespace VirtualMind.Exam.Domain
                     {
                         string apiResponse = await response.Content.ReadAsStringAsync();
                         var exchangeRateResponse = JsonConvert.DeserializeObject<string[]>(apiResponse);
+                        exchangeRate.CurrencyCode = this.CurrencyCode;
                         exchangeRate.BuyingRate = Convert.ToDouble(exchangeRateResponse[0]) / 4;
                         exchangeRate.SellingRate = Convert.ToDouble(exchangeRateResponse[1]) / 4;
                     }

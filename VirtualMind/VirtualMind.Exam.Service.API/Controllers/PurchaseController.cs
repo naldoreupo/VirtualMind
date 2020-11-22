@@ -10,6 +10,7 @@ using VirtualMind.Exam.Domain.Entity;
 using VirtualMind.Exam.Domain.Interface;
 using VirtualMind.Exam.Service.Entity.Model.Input;
 using VirtualMind.Exam.Transversal;
+using Newtonsoft;
 
 namespace VirtualMind.Exam.Service.API.Controllers
 {
@@ -18,9 +19,9 @@ namespace VirtualMind.Exam.Service.API.Controllers
     public class PurchaseController : ControllerBase
     {
         private readonly InterfacePurchaseDomain _purchaseDomain;
-        private readonly ILogger<CurrencyController> _logger;
+        private readonly ILogger<QuoteController> _logger;
         private readonly IMapper _mapper;
-        public PurchaseController(IMapper mapper, ILogger<CurrencyController> logger
+        public PurchaseController(IMapper mapper, ILogger<QuoteController> logger
             , InterfacePurchaseDomain purchaseDomain)
         {
             _purchaseDomain = purchaseDomain;
@@ -28,7 +29,7 @@ namespace VirtualMind.Exam.Service.API.Controllers
             _mapper = mapper;
         }
         [HttpPost]
-        public async Task<IActionResult> Purchase(PurchaseInput purchase)
+        public async Task<IActionResult> Purchase([FromBody] PurchaseInput purchase)
         {
             try
             {
@@ -40,6 +41,11 @@ namespace VirtualMind.Exam.Service.API.Controllers
                 if (purchase.CurrencyCode != CurrencyConstants.CurrencyDolarCode
                     && purchase.CurrencyCode != CurrencyConstants.CurrencyBrasilianCode)
                     return BadRequest($"{purchase.CurrencyCode} is not currently supported");
+
+                var isvalidAmount = await _purchaseDomain.ValidateMaxLimit(_mapper.Map<PurchaseDTO>(purchase));
+
+                if (!isvalidAmount)
+                    return BadRequest($"Limit for {purchase.CurrencyCode} exceeded");
 
                 var purchaseDTO = await _purchaseDomain.SaveTransacction(_mapper.Map<PurchaseDTO>(purchase));
 

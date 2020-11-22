@@ -1,7 +1,6 @@
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.deps.json
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.dll
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\bin\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.pdb
-C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.csprojAssemblyReference.cache
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.AssemblyInfoInputs.cache
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.AssemblyInfo.cs
 C:\Users\naldo.reupomusayon\source\repos\VirtualMind\VirtualMind\VirtualMind.Exam.Application.Entity\obj\Debug\netcoreapp3.1\VirtualMind.Exam.Application.Entity.csproj.CoreCompileInputs.cache

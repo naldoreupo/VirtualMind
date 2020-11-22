@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Service.AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Domain.Interface", "Number8.Exam.Domain.Interface\VirtualMind.Exam.Domain.Interface.csproj", "{553A24D7-5AF5-4D94-8326-185D7DADC893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMind.Exam.Infraestructure.Interface", "VirtualMind.Exam.Infraestructure.Interface\VirtualMind.Exam.Infraestructure.Interface.csproj", "{547D6164-4715-493B-A78A-7D1406190057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMind.Exam.Infraestructure.Interface", "VirtualMind.Exam.Infraestructure.Interface\VirtualMind.Exam.Infraestructure.Interface.csproj", "{547D6164-4715-493B-A78A-7D1406190057}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
